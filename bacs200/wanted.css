@@ -1,52 +1,47 @@
 * {
     margin: 0px;
     text-align: center;
-    background-color: white;
+    background-color: dimgrey;
 }
 
 header {
-    border: solid 10px limegreen;
-    background-color: mediumpurple;
+    border: solid 30px darkred;
+    background-color: darkgoldenrod;
     margin: 0.4in;
     padding: 10px;
     font-size: 300%;
 }
 
 body {
-    border: solid 10px limegreen;
-    background-color: mediumpurple;
+    border: solid 10px darkred;
+    background-color: black;
     margin: 1.0in;
 }
 
 main {
-    border: solid 10px limegreen;
-    background-color: mediumpurple;
+    border: solid 30px darkred;
+    background-color: darkgoldenrod;
     margin: 0.4in;
     padding: 10px;
-    font-size: 285%
+    font-size: 205%
 }
 
 footer {
-    border: solid 10px limegreen;
-    background-color: mediumpurple;
+    border: solid 0px darkred;
+    background-color: black;
     margin: 0.4in;
     padding: 10px;
-    font-size: 260%;
+    font-size: 20%;
 }
 
 p {
-    font-size: 40px;
+    font-size: 17px;
 }
 
 img {
-    padding: 41.5px;
+    padding: 21.5px;
 }
 
 aside {
-    border: solid 10px red;
-    position: absolute;
-    top: 125%;
-    right: 0;
-    width: 70px;
-    height: 140px;
+    background-color: darkgoldenrod;
 }
